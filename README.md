@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ishita+%F0%9F%91%8B;B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Ishita!&fontSize=70&fontAlignY=40&desc=Machine%20Learning%20%7C%20Artificial%20Intelligence&descSize=20&descAlignY=60&animation=twinkling" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">AI / ML Engineer | Computer Science Student | Building Practical AI</h3>
@@ -72,18 +72,7 @@
 
 <br/>
 
-### 🧠 Featured Projects
 
-> **[🤖 AI Crop Yield Prediction System](https://github.com/Ishitadas03)**  
-> Predict crop productivity using machine learning models and environmental data.
-
-> **[📜 PolicyPilot – AI Policy Interpreter](https://github.com/Ishitadas03)**  
-> AI-powered assistant that simplifies policy documents and helps users fill forms intelligently.
-
-> **[💰 AI Finance Advisor](https://github.com/Ishitadas03)**  
-> Smart system for financial recommendations using predictive analytics.
-
-<br/>
 
 ### 📊 GitHub Analytics
 

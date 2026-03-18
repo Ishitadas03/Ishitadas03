@@ -7,7 +7,7 @@
 
 <!-- Floating GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkya291P2/giphy.gif" />
 </p>
 
 ## 👩‍💻 About Me

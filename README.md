@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Ishita!&fontSize=70&fontAlignY=40&desc=Machine%20Learning%20%7C%20Artificial%20Intelligence&descSize=20&descAlignY=60&animation=twinkling" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6A0DAD,B57EDC&height=300&section=header&text=Hi,%20I'm%20Ishita!&fontSize=70&fontAlignY=40&desc=Machine%20Learning%20%7C%20Artificial%20Intelligence&descSize=20&descAlignY=60&animation=twinkling" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center">AI / ML Engineer | Computer Science Student | Building Practical AI</h3>
@@ -72,13 +72,28 @@
 
 <br/>
 
+### 🏆 GitHub Highlights
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1,134-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/Contributions-1,134-9370DB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Total%20PRs-20-B57EDC?style=for-the-badge&logo=git-pull-request&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Badges%20Earned-3-C4A4E5?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Badges" />
+  <img src="https://img.shields.io/badge/Stars-Earned-D8BFD8?style=for-the-badge&logo=apachespark&logoColor=white" alt="Stars" />
+</p>
+
+<br/>
 
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishitadas03&show_icons=true&theme=radical&hide_border=true" alt="Ishitadas03's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitadas03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<h4 align="center">📈 Contributions Activity Graph</h4>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishitadas03&bg_color=0D1117&color=B57EDC&line=9370DB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 <br/>
@@ -100,6 +115,7 @@
 ---
 
 <h3 align="center">⚡ <i>"Transforming ideas into intelligent systems through AI."</i> ⚡</h3>
+
 
 
 

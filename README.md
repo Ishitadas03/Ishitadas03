@@ -7,7 +7,7 @@
 
 <!-- Floating GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPq47g08x/giphy.gif" width="300" align="right" alt="Coding Girl GIF" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 </p>
 
 ## 👩‍💻 About Me

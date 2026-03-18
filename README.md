@@ -118,11 +118,6 @@ developer.print_bio()
 
 > *"Transforming ideas into intelligent systems through AI."*
 
-<!-- GitHub Stats dynamically fetched and styled -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishitadas03&show_icons=true&theme=radium" alt="Ishita's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitadas03&layout=compact&theme=radium" alt="Ishita's Top Languages" />
-</div>
 
 
 

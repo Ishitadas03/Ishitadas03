@@ -121,7 +121,8 @@ developer.print_bio()
 Project:
 
 🔗 Live Demo: 
-https://policy-pilot-five.vercel.app/
+1. https://policy-pilot-five.vercel.app/
+2. https://studyq-learning-platform.vercel.app/
 
 
 
